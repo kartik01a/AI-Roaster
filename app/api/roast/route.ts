@@ -6,7 +6,7 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 // 🔊 Language → ElevenLabs voice mapping
 const VOICE_MAP: Record<string, string> = {
   english: "pNInz6obpgDQGcFmaJgB", // Adam
-  hindi: "VcvyV7xGh7MdlH6zh5Z1", // Kartik
+  hindi: "C8wZRioDZqA6fkwDW6Df", // Kishan
   japanese: "lhTvHflPVOqgSWyuWQry", // Rachel
 };
 
